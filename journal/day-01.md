@@ -1,7 +1,7 @@
 # Day 1 — SkyScanner
 
 **Date:** November 15, 2026  
-**Time Spent:** [Actual time]
+**Time Spent:** 40mins
 
 ## Work Completed
 - Created the GitHub repository and organized project documentation.
